@@ -2,7 +2,7 @@
 NoSQL: Workout Tracker
 
 Github Page: https://cartaya1.github.io/Workout-Traker </br>
-Live Demo: https://cartaya1.workout-tracker.herokuapp.com/</br>
+Live Demo: https://cartaya1.Workout-Tracker.herokuapp.com/</br>
 
 ![fitnesstracker](./public/sample.png)
 
