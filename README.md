@@ -30,12 +30,10 @@ Como usuario, quiero poder ver, crear y realizar un seguimiento de los entrenami
 * MongoDB
 * Mongoose
 
-.
-
 # Author Informations
 
 ## [Luis Cartaya](https://github.com/cartaya1)
-.
+
 # Questions
 ✉️ Contact me with any questions: [email](mailto:cartaya1@msn.com) 
  
