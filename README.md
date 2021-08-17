@@ -37,5 +37,5 @@ Como usuario, quiero poder ver, crear y realizar un seguimiento de los entrenami
 # Questions
 ✉️ Contact me with any questions: [email](mailto:cartaya1@msn.com) 
  
-GitHub: https://cartaya1.github.io/Workout-Traker </br>
-Live Demo: https://git.heroku.com/polar-woodland-36268.git</br>
+[GitHub:] (https://cartaya1.github.io/Workout-Traker) </br>
+[Live Demo:] (https://git.heroku.com/polar-woodland-36268.git)</br>
