@@ -30,12 +30,11 @@ Como usuario, quiero poder ver, crear y realizar un seguimiento de los entrenami
 * MongoDB
 * Mongoose
 
-# Author Informations
+# Author Information
 
 ## [Luis Cartaya](https://github.com/cartaya1)
+## [GitHub](https://cartaya1.github.io/Workout-Traker)
+## [Live_Demo](https://polar-woodland-36268.herokuapp.com)
 
 # Questions
 ✉️ Contact me with any questions: [email](mailto:cartaya1@msn.com) 
- 
-![GitHub:] (https://cartaya1.github.io/Workout-Traker)
-![Live Demo:] (https://polar-woodland-36268.herokuapp.com/)
